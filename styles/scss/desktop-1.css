@@ -1,0 +1,1075 @@
+                        html {
+                            font-size: 62.5%;
+                        }
+                        
+                        * {
+                            margin: 0;
+                            padding: 0;
+                            box-sizing: border-box;
+                            width: 124opx;
+                        }
+                        
+                        ul,
+                        li {
+                            list-style: none;
+                        }
+                        
+                        input {
+                            border: none;
+                        }
+                        
+                        body {
+                            width: 144opx;
+                            height: 600px;
+                        }
+                        
+                        .content-container {
+                            flex-grow: 1;
+                            padding: 20px;
+                            justify-content: space-between;
+                            gap: 360px;
+                        }
+                        
+                        @media screen and (max-width: 1200px) {
+                            .content-container {
+                                gap: 100px;
+                            }
+                        }
+                        
+                        @media screen and (max-width: 1024px) {
+                            .content-container {
+                                gap: 40px;
+                            }
+                        }
+                        
+                        @media screen and (max-width: 768px) {
+                            .content-container {
+                                flex-direction: column;
+                            }
+                        }
+                        
+                        a {
+                            color: inherit;
+                        }
+                        
+                        .right-side {
+                            /*flex: 1;
+                            padding: 20px;*/
+                            flex-shrink: 0;
+                        }
+                        
+                        @media screen and (max-width: 768px) {
+                            .right-side {
+                                display: none;
+                            }
+                        }
+                        
+                        .desktop-1-zNX {
+                            position: relative;
+                            background-color: #fffbe5;
+                            background-repeat: repeat;
+                            width: 100%;
+                            overflow: hidden;
+                            flex-direction: column;
+                            background-size: 100% 100%;
+                            align-items: center;
+                            display: flex;
+                            justify-content: space-between;
+                            .auto-group-qdm5-oas {
+                                margin-bottom: 5.6rem;
+                                width: 100%;
+                                height: 83.1rem;
+                                position: relative;
+                                flex-shrink: 0;
+                                display: flex;
+                                flex-direction: row-reverse;
+                                align-items: center;
+                                justify-content: space-between;
+                                .group-1-4v7 {
+                                    box-sizing: border-box;
+                                    padding: 2.9rem 0 12rem 0;
+                                    position: absolute;
+                                    left: 0;
+                                    top: 0;
+                                    align-items: center;
+                                    width: 195rem;
+                                    height: 60.1rem;
+                                    display: flex;
+                                    background-color: #6f00df;
+                                    justify-content: space-between;
+                                    flex-direction: column;
+                                    .auto-group-tq7z-gAo {
+                                        margin: 0;
+                                        /*margin: 0rem 38.1rem 13.1rem 0rem;*/
+                                        display: flex;
+                                        flex-direction: column;
+                                        flex-shrink: 0;
+                                        .frame-6-mxw {
+                                            flex-shrink: 0;
+                                            margin-bottom: 9rem;
+                                            display: flex;
+                                            column-gap: 2.4rem;
+                                            align-items: center;
+                                            .image-2-CYT {
+                                                flex-shrink: 0;
+                                                width: 10rem;
+                                                height: 4.5rem;
+                                                object-fit: cover;
+                                                vertical-align: top;
+                                            }
+                                            .vector-1-J5h {
+                                                width: 0;
+                                                height: 3rem;
+                                                object-fit: contain;
+                                                vertical-align: top;
+                                                flex-shrink: 0;
+                                            }
+                                            .image-4-q5d {
+                                                flex-shrink: 0;
+                                                width: 13.5rem;
+                                                height: 2.3rem;
+                                                object-fit: cover;
+                                                vertical-align: top;
+                                            }
+                                        }
+                                        .workshop-oramento-financeiro-Ykj {
+                                            max-width: 23.6rem;
+                                            font-size: 4rem;
+                                            font-weight: 700;
+                                            line-height: 1.125;
+                                            color: #ffffff;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                            flex-shrink: 0;
+                                            margin-bottom: 0.8rem;
+                                        }
+                                        .a-mudana-comportamental-necessria-para-o-seu-sucesso-financeiro-Lgb {
+                                            flex-shrink: 0;
+                                            margin-bottom: 2.8rem;
+                                            max-width: 33.9rem;
+                                            font-size: 1.6rem;
+                                            font-weight: 500;
+                                            line-height: 1.5;
+                                            color: #ffffff;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                        }
+                                        .auto-group-t98f-zWF {
+                                            height: 6.5rem;
+                                            position: relative;
+                                            flex-shrink: 0;
+                                            width: 32.3rem;
+                                            .frame-19-veo {
+                                                background-color: #e1ae2a;
+                                                border-radius: 99.9rem;
+                                                font-family: Poppins, 'Source Sans Pro';
+                                                white-space: nowrap;
+                                                display: flex;
+                                                font-size: 2rem;
+                                                color: #ffffff;
+                                                height: 6.1rem;
+                                                position: absolute;
+                                                left: 0.3rem;
+                                                line-height: 2.25;
+                                                align-items: center;
+                                                justify-content: center;
+                                                width: 32rem;
+                                                top: 0.4rem;
+                                                font-weight: 700;
+                                            }
+                                            .frame-1-1iB {
+                                                height: 6.1rem;
+                                                left: 0;
+                                                align-items: center;
+                                                background-color: #f5c035;
+                                                width: 32rem;
+                                                font-size: 2rem;
+                                                line-height: 2.25;
+                                                display: flex;
+                                                font-weight: 700;
+                                                border-radius: 99.9rem;
+                                                white-space: nowrap;
+                                                justify-content: center;
+                                                position: absolute;
+                                                top: 0;
+                                                color: #393939;
+                                                font-family: Poppins, 'Source Sans Pro';
+                                            }
+                                        }
+                                    }
+                                    .a {
+                                        color: #393939;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                    .png-1 {
+                                        width: 38rem;
+                                        height: 57.2rem;
+                                        position: relative;
+                                        background-size: 100.284% 114.458%;
+                                        background-position: -0.0539rem 0;
+                                        background-image: url('./assets/png-1.png');
+                                        flex-shrink: 0;
+                                        display: flex;
+                                    }
+                                }
+                                .destaque-fgF {
+                                    display: flex;
+                                    background-image: url('../../assets/img_Destaque.png');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                    left: 0;
+                                    height: 14.4rem;
+                                    position: absolute;
+                                    top: 60rem;
+                                    align-items: center;
+                                    background-color: #363636;
+                                    width: 100%;
+                                    .item-1142-2-aoD {
+                                        opacity: 0.08;
+                                        width: 14.3rem;
+                                        height: 14.4rem;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        flex-shrink: 0;
+                                    }
+                                    .auto-group-6vrq-snK {
+                                        /*padding: 4.325rem 25.1rem 4.325rem 50.1rem;*/
+                                        height: 100%;
+                                        display: flex;
+                                        column-gap: 5.6rem;
+                                        align-items: center;
+                                        flex-shrink: 0;
+                                        box-sizing: border-box;
+                                        justify-content: center;
+                                        width: 100%;
+                                        .frame-2-MSb {
+                                            height: calc(100% - 1.25rem);
+                                            display: flex;
+                                            align-items: center;
+                                            flex-shrink: 0;
+                                            margin: 0.625rem 0;
+                                            .fi-sr-calendar-U1R {
+                                                height: 4rem;
+                                                object-fit: contain;
+                                                vertical-align: top;
+                                                flex-shrink: 0;
+                                                margin: 0rem 1.6rem 0rem 0rem;
+                                                width: 4rem;
+                                            }
+                                            .item-29-01-2024-P8P {
+                                                white-space: nowrap;
+                                                flex-shrink: 0;
+                                                font-size: 2.4rem;
+                                                font-weight: 600;
+                                                line-height: 1.875;
+                                                color: #ffffff;
+                                                font-family: Poppins, 'Source Sans Pro';
+                                            }
+                                        }
+                                        .vector-1-s3Z {
+                                            height: 5.75rem;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                            flex-shrink: 0;
+                                            width: 0;
+                                        }
+                                        .frame-3-bkF {
+                                            align-items: center;
+                                            flex-shrink: 0;
+                                            margin: 0.625rem 0;
+                                            height: calc(100% - 1.25rem);
+                                            display: flex;
+                                            .fi-sr-time-check-915 {
+                                                vertical-align: top;
+                                                flex-shrink: 0;
+                                                margin: 0rem 1.6rem 0rem 0rem;
+                                                width: 4rem;
+                                                height: 4rem;
+                                                position: relative;
+                                                object-fit: contain;
+                                            }
+                                            .item-16-00-4Nw {
+                                                font-weight: 600;
+                                                line-height: 1.875;
+                                                color: #ffffff;
+                                                font-family: Poppins, 'Source Sans Pro';
+                                                white-space: nowrap;
+                                                flex-shrink: 0;
+                                                font-size: 2.4rem;
+                                            }
+                                        }
+                                        .vector-2-z1h {
+                                            width: 0;
+                                            height: 5.75rem;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                            flex-shrink: 0;
+                                        }
+                                        .frame-4-wBq {
+                                            margin: 0.625rem 0;
+                                            height: calc(100% - 1.25rem);
+                                            display: flex;
+                                            align-items: center;
+                                            flex-shrink: 0;
+                                            .fi-sr-time-delete-rJo {
+                                                position: relative;
+                                                object-fit: contain;
+                                                vertical-align: top;
+                                                flex-shrink: 0;
+                                                margin: 0rem 1.6rem 0rem 0rem;
+                                                width: 4rem;
+                                                height: 4rem;
+                                            }
+                                            .item-18-00-k9H {
+                                                font-family: Poppins, 'Source Sans Pro';
+                                                white-space: nowrap;
+                                                flex-shrink: 0;
+                                                font-size: 2.4rem;
+                                                font-weight: 600;
+                                                line-height: 1.875;
+                                                color: #ffffff;
+                                            }
+                                        }
+                                    }
+                                    @media screen and (max-width: 768px) {
+                                        .auto-group-6vrq-snK .frame-2-MSb .fi-sr-calendar-U1R,
+                                        .auto-group-6vrq-snK .frame-3-bkF .fi-sr-time-check-915,
+                                        .auto-group-6vrq-snK .frame-4-wBq .fi-sr-time-delete-rJo {
+                                            width: 2rem;
+                                            height: 2rem;
+                                            margin: 0 1rem 0 0;
+                                        }
+                                        .auto-group-6vrq-snK .frame-2-MSb .item-29-01-2024-P8P,
+                                        .auto-group-6vrq-snK .frame-3-bkF .item-16-00-4Nw,
+                                        .auto-group-6vrq-snK .frame-4-wBq .item-18-00-k9H {
+                                            font-size: 2rem;
+                                        }
+                                        .auto-group-6vrq-snK {
+                                            column-gap: 1.5rem;
+                                        }
+                                    }
+                                    .item-1142-1-GNX {
+                                        height: 14.4rem;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        flex-shrink: 0;
+                                        opacity: 0.08;
+                                        width: 14.3rem;
+                                    }
+                                }
+                                .frame-5-kHh {
+                                    width: 100%;
+                                    height: auto;
+                                    position: absolute;
+                                    left: 0;
+                                    top: 74.4rem;
+                                    background-color: #f0ae03;
+                                    padding: 24px;
+                                    .rectangle-2-st7 {
+                                        /*position: absolute;
+                                        align-items: center;
+                                        top: 0rem;
+                                        background-image: url('REPLACE_IMAGE:69cc104c6c41a3b0b948801b16599b7ea1365cf9');
+                                        width: 195rem;
+                                        height: 8.6rem;
+                                        left: 0;
+                                        background-color: #f0ae03;
+                                        background-repeat: repeat;
+                                        background-size: 100% 100%;*/
+                                    }
+                                    .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5 {
+                                        font-weight: 700;
+                                        text-transform: uppercase;
+                                        white-space: nowrap;
+                                        /*width: 107.9rem;
+                                        left: 50.0rem;
+                                        top: 2.1rem;*/
+                                        line-height: 1.875;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        display: flex;
+                                        justify-content: center;
+                                        gap: 5px;
+                                        font-size: 2.4rem;
+                                        /*height: 4.5rem;
+                                        position: relative;*/
+                                        align-items: center;
+                                        flex-wrap: wrap;
+                                        text-transform: uppercase;
+                                        strong {
+                                            font-weight: 800;
+                                            color: #ffffff;
+                                        }
+                                        /*.seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-0 {
+                                            color: #363636;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                            font-size: 2.4rem;
+                                            font-weight: 700;
+                                            line-height: 1.875;
+                                            text-transform: uppercase;
+                                        }
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-1 {}
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-2 {
+                                            font-size: 2.4rem;
+                                            font-weight: 800;
+                                            line-height: 1.875;
+                                            text-transform: uppercase;
+                                            color: #ffffff;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                        }
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-3 {}
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-4 {
+                                            font-size: 2.4rem;
+                                            font-weight: 700;
+                                            line-height: 1.875;
+                                            text-transform: uppercase;
+                                            color: #363636;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                        }
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-5 {}
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-6 {
+                                            font-size: 2.4rem;
+                                            font-weight: 800;
+                                            line-height: 1.875;
+                                            text-transform: uppercase;
+                                            color: #ffffff;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                        }
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-7 {}
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5-sub-8 {
+                                            font-size: 2.4rem;
+                                            font-weight: 800;
+                                            line-height: 1.875;
+                                            text-transform: uppercase;
+                                            color: #ffffff;
+                                            font-family: Poppins, 'Source Sans Pro';
+                                        }*/
+                                    }
+                                    @media screen and (max-width: 768px) {
+                                        .seu-investimento-de-r23600-poder-ser-parcelado-em-at-23x-de-r1967-por-ms-NK5 {
+                                            font-size: 2rem;
+                                            line-height: 1.2;
+                                        }
+                                    }
+                                    .item-1142-3-9Y7 {
+                                        left: 135.5rem;
+                                        top: 0;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        opacity: 0.08;
+                                        width: 8.5rem;
+                                        height: 8.6rem;
+                                        position: absolute;
+                                    }
+                                    .item-1142-1-fmM {
+                                        left: 0;
+                                        top: 0;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        opacity: 0.08;
+                                        width: 8.5rem;
+                                        height: 8.6rem;
+                                        position: absolute;
+                                    }
+                                }
+                            }
+                            .auto-group-cbwh-nb5 {
+                                /*margin: 0rem 13rem 8rem 13rem;
+                                width: calc(100% - 26rem);*/
+                                max-width: 1200px;
+                                margin: 0 auto;
+                                display: flex;
+                                flex-wrap: wrap;
+                                padding: 80px 24px;
+                                justify-content: center;
+                                align-items: flex-start;
+                                flex-shrink: 0;
+                                gap: 40px;
+                                .auto-group-mjxh-hxw {
+                                    /*margin-right: 10rem;*/
+                                    display: flex;
+                                    flex-direction: column;
+                                    /*flex-shrink: 0;*/
+                                    flex: 1 0 410px;
+                                    .tudo-que-precisa-saber-sobre-o-workshop-oramento-financeiro-edH {
+                                        font-weight: 700;
+                                        line-height: 1.1666666667;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        flex-shrink: 0;
+                                        margin-bottom: 2.4rem;
+                                        max-width: 53.7rem;
+                                        font-size: 3rem;
+                                    }
+                                    .o-workshop-oramento-financeiro-um-curso-intensivo-onde-voc-aprender-tudo-que-precisa-sobre-organizao-e-potencializao-financeira-todo-o-contedo-foi-criado-com-base-na-metodologia-dsop-que-j-mudou-a-vida-de-milhares-de-pessoas-no-brasil-e-no-mundo-e-com-certeza-mudar-a-sua-tambm-o-foco-a-educao-do-comportamento-financeiro-ou-seja-voc-vai-entender-que-tudo-que-precisa-para-conquistar-seus-objetivos-sejam-eles-quais-forem-depende-exclusivamente-dos-seus-hbitos-em-relao-ao-consumo-kRR {
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        flex-shrink: 0;
+                                        max-width: 58rem;
+                                        font-size: 1.8rem;
+                                        font-weight: 500;
+                                    }
+                                }
+                                .group-6-KWT {
+                                    margin-bottom: 0.7rem;
+                                    width: 50rem;
+                                    height: 43.5rem;
+                                    position: relative;
+                                    flex-shrink: 0;
+                                    .group-2-TMm {
+                                        width: 50rem;
+                                        height: 34.9rem;
+                                        position: absolute;
+                                        left: 0;
+                                        top: 8.6rem;
+                                        .rectangle-8-C4T {
+                                            width: 15.9168rem;
+                                            height: 17.45rem;
+                                            position: absolute;
+                                            left: 0;
+                                            top: 17.45rem;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                        }
+                                        .rectangle-7-Kum {
+                                            background-size: 100% 100%;
+                                            position: absolute;
+                                            left: 9.1114rem;
+                                            top: 8.5286rem;
+                                            background-image: url('REPLACE_IMAGE:69cc104c6c41a3b0b948801b16599b7ea1365cf9');
+                                            background-repeat: repeat;
+                                            border-radius: 10.3487rem 10.3487rem 0 0;
+                                            width: 20.6974rem;
+                                            height: 26.3714rem;
+                                            background-color: #363636;
+                                        }
+                                        .rectangle-9-QAX {
+                                            height: 34.9rem;
+                                            position: absolute;
+                                            left: 25.5343rem;
+                                            top: 0;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                            width: 24.4657rem;
+                                        }
+                                    }
+                                    .modelo-Lps {
+                                        top: 0;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        width: 26.6rem;
+                                        height: 43.5rem;
+                                        position: absolute;
+                                        left: 12.1rem;
+                                    }
+                                    .market-analysis-fs9 {
+                                        left: 2.5688rem;
+                                        top: 6.1957rem;
+                                        object-fit: contain;
+                                        vertical-align: top;
+                                        width: 9.0625rem;
+                                        height: 9.0625rem;
+                                        position: absolute;
+                                    }
+                                }
+                            }
+                            @media screen and (max-width: 1024px) {
+                                .auto-group-cbwh-nb5 .auto-group-mjxh-hxw {
+                                    max-width: 500px;
+                                    margin: 0 auto;
+                                    justify-content: center;
+                                }
+                            }
+                            @media screen and (max-width: 768px) {
+                                .auto-group-cbwh-nb5 .auto-group-mjxh-hxw {
+                                    flex: 1;
+                                }
+                                .auto-group-cbwh-nb5 .group-6-KWT {
+                                    display: none;
+                                }
+                            }
+                            .frame-7-8kj {
+                                margin-bottom: 8rem;
+                                padding: 40px 24px 71px 24px;
+                                width: 100%;
+                                overflow: hidden;
+                                background-size: 100% 100%;
+                                /*height: 60rem;*/
+                                position: relative;
+                                background-color: #383838;
+                                background-image: url('../../assets/back_div_flex.png');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                flex-shrink: 0;
+                                .div-flex {
+                                    display: grid;
+                                    grid-template-columns: repeat(auto-fit, minmax(150px, 180px));
+                                    justify-content: center;
+                                    max-width: 1100px;
+                                    margin: auto;
+                                    gap: 20px 24px;
+                                }
+                                .item-1142-2-48b {
+                                    top: 0;
+                                    object-fit: cover;
+                                    vertical-align: top;
+                                    opacity: 0.08;
+                                    width: 59.6rem;
+                                    height: 60rem;
+                                    position: absolute;
+                                    left: 0;
+                                }
+                                .item-1142-1-PAs {
+                                    vertical-align: top;
+                                    opacity: 0.08;
+                                    width: 59.6rem;
+                                    height: 60rem;
+                                    position: absolute;
+                                    left: 84.4rem;
+                                    top: 0;
+                                    object-fit: cover;
+                                }
+                                .oramento-financeiro-na-prtica-uuu {
+                                    width: 51.3rem;
+                                    height: 3.5rem;
+                                    /*position: absolute;
+                                    left: 46.35rem;
+                                    top: 4rem;*/
+                                    text-align: center;
+                                    font-weight: 700;
+                                    color: #ffffff;
+                                    font-family: Poppins, 'Source Sans Pro';
+                                    font-size: 3rem;
+                                    line-height: 1.1666666667;
+                                    white-space: nowrap;
+                                    margin: 0 auto 8px auto;
+                                }
+                                .veja-todo-o-contedo-que-ser-abordado--oVV {
+                                    width: 42.3rem;
+                                    line-height: 1.5;
+                                    height: 3rem;
+                                    /*position: absolute;
+                                    left: 50.85rem;
+                                    top: 8.3rem;*/
+                                    text-align: center;
+                                    font-size: 2rem;
+                                    font-weight: 600;
+                                    color: #ffffff;
+                                    font-family: Poppins, 'Source Sans Pro';
+                                    white-space: nowrap;
+                                    margin: 0 auto 29px auto;
+                                }
+                                .frame-8-gZH {
+                                    padding: 4.5rem 3.3rem 4.5rem 3.1rem;
+                                    height: 18rem;
+                                    /*position: absolute;
+                                    left: 23rem;
+                                    top: 14.5rem;*/
+                                    background-size: cover;
+                                    box-sizing: border-box;
+                                    width: 18rem;
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    .o-que-oramento-financeiro-yoH {
+                                        max-width: 11.6rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-13-Dhd {
+                                    width: 18rem;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                    background-position: center;
+                                    box-sizing: border-box;
+                                    padding: 3rem 3.3rem 3rem 3.1rem;
+                                    height: 18rem;
+                                    /*position: absolute;
+                                    left: 22.9rem;
+                                    top: 34.9rem;*/
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    .quando-fazer-um-oramento-financeiro-Jj5 {
+                                        max-width: 11.6rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-9-17h {
+                                    padding: 4.5rem 2.9rem;
+                                    width: 18rem;
+                                    height: 18rem;
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    box-sizing: border-box;
+                                    /*position: absolute;
+                                    left: 43rem;
+                                    top: 14.5rem;*/
+                                    .o-que-no-oramento-financeiro-uym {
+                                        max-width: 12.2rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-14-q6j {
+                                    padding: 4.5rem 2.3rem;
+                                    height: 18rem;
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    box-sizing: border-box;
+                                    /*position: absolute;
+                                    left: 42.9rem;
+                                    top: 34.9rem;*/
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    width: 18rem;
+                                    .meios-para-o-oramento-financeiro-YQT {
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        max-width: 13.4rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                    }
+                                }
+                                .frame-10-EYB {
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    box-sizing: border-box;
+                                    width: 18rem;
+                                    height: 18rem;
+                                    /*position: absolute;
+                                    left: 63rem;
+                                    top: 14.5rem;*/
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    padding: 4.5rem 2.9rem 4.5rem 2.8rem;
+                                    .conceito-de-oramento-financeiro-9QF {
+                                        max-width: 12.3rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-15-Tfq {
+                                    box-sizing: border-box;
+                                    padding: 3rem 3.4rem 3rem 3.3rem;
+                                    height: 18rem;
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    width: 18rem;
+                                    /*position: absolute;
+                                    left: 62.9rem;
+                                    top: 34.9rem;*/
+                                    .modelo-do-oramento-financeiro-dsop-mwR {
+                                        max-width: 11.3rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-11-tm9 {
+                                    height: 18rem;
+                                    /*position: absolute;*/
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    box-sizing: border-box;
+                                    padding: 4.5rem 2.4rem 4.5rem 2.2rem;
+                                    /*top: 14.5rem;
+                                    left: 83rem;*/
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    width: 18rem;
+                                    .oramento-financeiro-mental-x-real-bfZ {
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        max-width: 13.4rem;
+                                        font-size: 2rem;
+                                    }
+                                }
+                                .frame-16-Gmh {
+                                    box-sizing: border-box;
+                                    /*position: absolute;
+                                    left: 82.9rem;
+                                    top: 34.9rem;*/
+                                    background-repeat: no-repeat;
+                                    padding: 6rem 5rem 6rem 5.1rem;
+                                    width: 18rem;
+                                    height: 18rem;
+                                    background-size: cover;
+                                    background-position: center;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    .passo-a-passo-yRD {
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        max-width: 7.9rem;
+                                        font-size: 2rem;
+                                    }
+                                }
+                                .frame-12-gaX {
+                                    padding: 3rem 2.2rem 3rem 2.1rem;
+                                    width: 18rem;
+                                    height: 18rem;
+                                    /*position: absolute;
+                                    left: 103rem;
+                                    top: 14.5rem;*/
+                                    background-repeat: no-repeat;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    box-sizing: border-box;
+                                    background-size: cover;
+                                    background-position: center;
+                                    .elementos-do-verdadeiro-oramento-financeiro-bBh {
+                                        max-width: 13.7rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                                .frame-17-HaK {
+                                    height: 18rem;
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    background-color: #fffbe5;
+                                    border-radius: 8px;
+                                    box-sizing: border-box;
+                                    width: 18rem;
+                                    /*position: absolute;
+                                    left: 102.9rem;
+                                    top: 34.9rem;*/
+                                    background-position: center;
+                                    padding: 6rem 5.2rem;
+                                    .projeto-de-vida-bL7 {
+                                        max-width: 7.6rem;
+                                        font-size: 2rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                    }
+                                }
+                            }
+                            .auto-group-gq83-GSF {
+                                max-width: 1200px;
+                                display: flex;
+                                justify-content: center;
+                                /*align-items: fels;*/
+                                flex-shrink: 0;
+                                margin: 0rem 49rem 13rem 50rem;
+                                width: calc(100% - 26.7rem);
+                                /*height: 39.7rem;*/
+                                .group-5-w2b {
+                                    margin-right: 10rem;
+                                    width: 50rem;
+                                    height: 100%;
+                                    position: relative;
+                                    flex-shrink: 0;
+                                    .group-3-UoD {
+                                        width: 50rem;
+                                        height: 34.9rem;
+                                        position: absolute;
+                                        left: 0;
+                                        top: 4.8rem;
+                                        .rectangle-8-QRy {
+                                            width: 15.9168rem;
+                                            height: 17.45rem;
+                                            position: absolute;
+                                            left: 34.0832rem;
+                                            top: 17.45rem;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                        }
+                                        .rectangle-7-vQK {
+                                            background-size: 100% 100%;
+                                            border-radius: 10.3487rem 10.3487rem 0 0;
+                                            width: 20.6974rem;
+                                            top: 8.5286rem;
+                                            background-image: url('REPLACE_IMAGE:69cc104c6c41a3b0b948801b16599b7ea1365cf9');
+                                            background-repeat: repeat;
+                                            height: 26.3714rem;
+                                            position: absolute;
+                                            left: 20.1912rem;
+                                            background-color: #363636;
+                                        }
+                                        .rectangle-9-bWT {
+                                            top: 0;
+                                            object-fit: contain;
+                                            vertical-align: top;
+                                            width: 24.4657rem;
+                                            height: 34.9rem;
+                                            position: absolute;
+                                            left: 0;
+                                        }
+                                    }
+                                    .group-4-YAo {
+                                        top: 0;
+                                        width: 39.2rem;
+                                        height: 39.2rem;
+                                        position: absolute;
+                                        left: 4.4rem;
+                                        .rectangle-11-5Aj {
+                                            position: absolute;
+                                            left: 9.9633rem;
+                                            top: 8.6567rem;
+                                            background-color: #ffffff;
+                                            width: 19.1917rem;
+                                            height: 19.1917rem;
+                                        }
+                                        .image-6-14P {
+                                            top: 0;
+                                            object-fit: cover;
+                                            vertical-align: top;
+                                            width: 39.2rem;
+                                            height: 39.2rem;
+                                            position: absolute;
+                                            left: 0;
+                                        }
+                                    }
+                                }
+                                .auto-group-dwns-6bd {
+                                    margin: 8.2rem 0rem 8.6rem 0rem;
+                                    height: calc(100% - 16.8rem);
+                                    align-items: center;
+                                    display: flex;
+                                    flex-direction: column;
+                                    flex-shrink: 0;
+                                    .o-workshop-oramento-financeiro-parte-de-um-verdadeiro-ecossistema-boH {
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        flex-shrink: 0;
+                                        margin-bottom: 2.4rem;
+                                        max-width: 57.3rem;
+                                        font-size: 3rem;
+                                        font-weight: 700;
+                                        line-height: 1.1666666667;
+                                    }
+                                    .os-profissionais-responsveis-pela-aplicao-do-contedo-so-certificados-pela-associao-brasileira-de-profissionais-de-educao-financeira-abefin-e-contam-com-suporte-integral-da-dsop-empresa-pioneira-da-educao-financeira-no-brasil-6V9 {
+                                        max-width: 57.3rem;
+                                        font-size: 1.8rem;
+                                        font-weight: 500;
+                                        line-height: 1.5;
+                                        color: #363636;
+                                        font-family: Poppins, 'Source Sans Pro';
+                                        flex-shrink: 0;
+                                    }
+                                }
+                            }
+                            @media screen and (max-width: 1100px) {
+                                .auto-group-gq83-GSF .auto-group-dwns-6bd {
+                                    max-width: 500px;
+                                    /*margin: 0 auto;*/
+                                    justify-content: center;
+                                    margin: 8.2rem 0rem 8.6rem -6rem;
+                                }
+                            }
+                            @media screen and (max-width: 968px) {
+                                .auto-group-gq83-GSF .auto-group-dwns-6bd {
+                                    margin: auto;
+                                    flex: 1;
+                                }
+                                .auto-group-gq83-GSF .group-5-w2b {
+                                    display: none;
+                                }
+                            }
+                            .frame-8-tR1 {
+                                background-size: 100% 100%;
+                                width: 100%;
+                                height: 60rem;
+                                position: relative;
+                                background-repeat: repeat;
+                                flex-shrink: 0;
+                                overflow: hidden;
+                                background-color: #383838;
+                                background-image: url('REPLACE_IMAGE:69cc104c6c41a3b0b948801b16599b7ea1365cf9');
+                                .item-1142-1-RQw {
+                                    left: 0;
+                                    top: 0;
+                                    object-fit: cover;
+                                    vertical-align: top;
+                                    opacity: 0.08;
+                                    width: 59.6rem;
+                                    height: 60rem;
+                                    position: absolute;
+                                }
+                                .image-7-M3h {
+                                    object-fit: cover;
+                                    vertical-align: top;
+                                    width: 45.1rem;
+                                    height: 60rem;
+                                    position: absolute;
+                                    left: 13rem;
+                                    top: 0rem;
+                                }
+                            }
+                            .frame-18-d1D {
+                                overflow: hidden;
+                                position: relative;
+                                flex-shrink: 0;
+                                background-size: 100% 100%;
+                                box-sizing: border-box;
+                                padding: 2.8rem 57.8rem 2.7rem 92.9rem;
+                                width: 100%;
+                                height: 10rem;
+                                background-color: #6f00df;
+                                background-image: url('REPLACE_IMAGE:69cc104c6c41a3b0b948801b16599b7ea1365cf9');
+                                background-repeat: repeat;
+                                .frame-6-vFD {
+                                    height: 100%;
+                                    display: flex;
+                                    column-gap: 2.4rem;
+                                    align-items: center;
+                                    width: 100%;
+                                    .image-2-SjM {
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        flex-shrink: 0;
+                                        width: 10rem;
+                                        height: 4.5rem;
+                                    }
+                                    .vector-1-bMM {
+                                        vertical-align: top;
+                                        flex-shrink: 0;
+                                        width: 0;
+                                        height: 3rem;
+                                        object-fit: contain;
+                                    }
+                                    .image-4-jyM {
+                                        width: 13.rem;
+                                        height: 2.3rem;
+                                        object-fit: cover;
+                                        vertical-align: top;
+                                        flex-shrink: 0;
+                                    }
+                                }
+                            }
+                        }
