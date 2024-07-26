@@ -5,4 +5,4 @@ Funcionalidades:
 Informações do Workshop: Exibe detalhes como data, horário e tópicos do workshop.
 Formulário de Inscrição: Permite aos usuários se registrarem para o workshop.
 Design Responsivo: Compatível com dispositivos móveis e desktops.
-Tecnologias Utilizadas: [HTML, CSS, JavaScript]
+Tecnologias Utilizadas: [HTML e CSS]
